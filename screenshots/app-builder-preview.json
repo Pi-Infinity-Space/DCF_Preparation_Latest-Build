@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "DCF Aptitude Prep",
+      "hasCanvas": false,
+      "bodyTextLen": 667,
+      "bodyTextHash": "cf94b289581a4ea5fa0ea733e3b72810676262e64ddc70e3e0989f2aa2e01def",
+      "bodyTextPrefix": "DREAMERS COLLEGE FUND Aptitude Prep 60 questions. 600 points. Pa",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "DCF Aptitude Prep",
+      "hasCanvas": false,
+      "bodyTextLen": 667,
+      "bodyTextHash": "cf94b289581a4ea5fa0ea733e3b72810676262e64ddc70e3e0989f2aa2e01def",
+      "bodyTextPrefix": "DREAMERS COLLEGE FUND Aptitude Prep 60 questions. 600 points. Pa",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
